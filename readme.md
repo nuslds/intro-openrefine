@@ -3,7 +3,7 @@
 ## Getting Ready for the Workshop
 
 - Go to this GitHub repo. https://github.com/nuslds/openrefine-intro
-- Download the demo data.
+- [Download the demo data](https://github.com/nuslds/openrefine-intro/blob/master/demo_data.csv).
 - You should have OpenRefine installed on your PC.
 
   - Not sure how to download and run OpenRefine? Check out the instructions [here](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions)
@@ -35,12 +35,12 @@
 
 ## Overview
 
-- Part 1. Getting Started
-- Part 2. Removing Duplicates
-- Part 3. Dealing with Incomplete Information
-- Part 4. Identifying Inaccurate Entries
-- Part 5. Tackling Inconsistent formats
-- Part 6. Other Useful OpenRefine Features
+- [Part 1. Getting Started](https://github.com/nuslds/openrefine-intro/blob/master/markdowns/Part_1_Getting_Started.md)
+- [Part 2. Removing Duplicates](https://github.com/nuslds/openrefine-intro/blob/master/markdowns/Part_2_Removing_Duplicates.md)
+- [Part 3. Dealing with Incomplete Information](https://github.com/nuslds/openrefine-intro/blob/master/markdowns/Part_3._Dealing_with_Incomplete_Information.md)
+- [Part 4. Identifying Inaccurate Entries](https://github.com/nuslds/openrefine-intro/blob/master/markdowns/Part_4_Tackling_Inaccurate_Inconsistent_Entries.md)
+- [Part 5. Tackling Inconsistent formats](https://github.com/nuslds/openrefine-intro/blob/master/markdowns/Part_5_Dealing_with_multi_valued_cells.md)
+- [Part 6. Other Useful OpenRefine Features]()
 
 
 
