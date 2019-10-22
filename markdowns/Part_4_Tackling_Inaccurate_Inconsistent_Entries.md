@@ -10,7 +10,7 @@ Text facet and Numeric facet are two most commonly used facets to discover value
 
 <img src="https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/118911/images/15.png" width="700" />
 
-### Text Lenth Facet
+### Text Length Facet
 
 <img src="https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/118911/images/16.png" width="750" />
 
