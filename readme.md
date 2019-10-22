@@ -39,7 +39,7 @@
 - [Part 2. Removing Duplicates](https://github.com/nuslds/openrefine-intro/blob/master/markdowns/Part_2_Removing_Duplicates.md)
 - [Part 3. Dealing with Incomplete Information](https://github.com/nuslds/openrefine-intro/blob/master/markdowns/Part_3._Dealing_with_Incomplete_Information.md)
 - [Part 4. Identifying Inaccurate Entries](https://github.com/nuslds/openrefine-intro/blob/master/markdowns/Part_4_Tackling_Inaccurate_Inconsistent_Entries.md)
-- [Part 5. Tackling Inconsistent formats](https://github.com/nuslds/openrefine-intro/blob/master/markdowns/Part_5_Dealing_with_multi_valued_cells.md)
+- [Part 5.  Dealing with Multi-Valued Cells](https://github.com/nuslds/openrefine-intro/blob/master/markdowns/Part_5_Dealing_with_multi_valued_cells.md)
 
 
 
