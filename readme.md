@@ -3,7 +3,7 @@
 ## Getting Ready for the Workshop
 
 - Go to this GitHub repo. https://github.com/nuslds/openrefine-intro
-- [Download the demo data](https://github.com/nuslds/openrefine-intro/blob/master/demo_data.csv).
+- [Download the demo data](http://libguides.nus.edu.sg/ld.php?content_id=47625117).
 - You should have OpenRefine installed on your PC.
 
   - Not sure how to download and run OpenRefine? Check out the instructions [here](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions)
